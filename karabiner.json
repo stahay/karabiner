@@ -98,22 +98,6 @@
                     "simple_modifications": [
                         {
                             "from": {
-                                "key_code": "left_control"
-                            },
-                            "to": {
-                                "key_code": "left_command"
-                            }
-                        },
-                        {
-                            "from": {
-                                "key_code": "left_command"
-                            },
-                            "to": {
-                                "key_code": "left_option"
-                            }
-                        },
-                        {
-                            "from": {
                                 "key_code": "caps_lock"
                             },
                             "to": {
@@ -130,18 +114,26 @@
                         },
                         {
                             "from": {
-                                "key_code": "japanese_pc_katakana"
+                                "key_code": "japanese_pc_xfer"
                             },
                             "to": {
-                                "key_code": "japanese_kana"
+                                "key_code": "caps_lock"
                             }
                         },
                         {
                             "from": {
-                                "key_code": "japanese_pc_nfer"
+                                "key_code": "left_command"
                             },
                             "to": {
-                                "key_code": "japanese_kana"
+                                "key_code": "left_option"
+                            }
+                        },
+                        {
+                            "from": {
+                                "key_code": "left_control"
+                            },
+                            "to": {
+                                "key_code": "left_command"
                             }
                         }
                     ]
